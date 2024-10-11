@@ -12,6 +12,9 @@ public class Sum {
 
 
     /*static void sum(){ //void returns nothing ex-1
+
+
+
         Scanner in =new Scanner (System.in);
         int num1,num2,sum;
         System.out.println("enter number 1:");
